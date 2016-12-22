@@ -1,0 +1,4 @@
+repo: https://github.com/hpcc-charms/layer-hpccsystems-cluster-manager-base.git
+includes:
+  - 'layer:hpccsystems-base'
+  - 'interface:hpccsystems-cluster'
